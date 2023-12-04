@@ -4,6 +4,8 @@ Dear all, as the talk is based upon a lot of content, please find related links 
 
 * Convert text into vectors: Word2Vec online demo: https://remykarem.github.io/word2vec-demo/
 
+* Word2vec (2013): https://en.wikipedia.org/wiki/Word2vec
+
 * Classical example: King-Queen vs Man-Woman vectorization: https://www.researchgate.net/figure/The-classical-king-woman-man-queen-example-of-neural-word-embeddings-in-2D-It_fig1_332679657
 
 * Try it yourself: "Semantic Calculator" based on vector values: http://vectors.nlpl.eu/explore/embeddings/en/calculator/#
@@ -12,11 +14,19 @@ Dear all, as the talk is based upon a lot of content, please find related links 
 
 * Large Language Models - Youtube Video: https://www.youtube.com/watch?v=5sLYAQS9sWQ
 
+* Wikipedia: https://en.wikipedia.org/wiki/Large_language_model
+
+* Model size comparizon (graphical): https://lifearchitect.ai/models/#model-bubbles
+
 * "Transformers, explained" Youtube Video: https://www.youtube.com/watch?v=SZorAJ4I-sA
+
+* Illustrated Guide to Transformers: https://www.youtube.com/watch?v=4Bdc55j80l8
+  
+* "Attention is all you need" paper on Transformers (2017): https://arxiv.org/abs/1706.03762
 
 * Semi-supervised learning: https://blog.roboflow.com/what-is-semi-supervised-learning/
 
-* x
+* Billboard chart for Large Language Models: https://s10251.pcdn.co/wp-content/uploads/2023/06/2023-Alan-D-Thompson-AI-Billboard-Rev-1.png
 
 * Falcon 40B LLM: https://huggingface.co/tiiuae/falcon-40b-instruct
 
@@ -28,4 +38,8 @@ Dear all, as the talk is based upon a lot of content, please find related links 
 
 * Should you Prompt, RAG or fine tune? https://medium.com/@pandey.vikesh/should-you-prompt-rag-tune-or-train-a-guide-to-choose-the-right-generative-ai-approach-5e264043bd7d
 
-* 
+* Amazon Bedrock RAG workshop: https://github.com/aws-samples/amazon-bedrock-rag-workshop
+
+* Amazon Partyrock example: "Text rewriter" https://partyrock.aws/u/cabcookie/RjOhsSpr0/Text-Rewriter-An-AI-Assistant-for-Professionally-Editing-Content/snapshot/7CHKa58sa
+
+* Files and links from Generative AI official webinar on Youtube: https://github.com/typex1/AWS-GenAI-Foundations-slides/
