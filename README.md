@@ -10,7 +10,7 @@ Dear all, as the talk is based upon a lot of content, please find related links 
 
 * Try it yourself: "Semantic Calculator" based on vector values: http://vectors.nlpl.eu/explore/embeddings/en/calculator/#
 
-* Amazon Commprehend (e.g. Sentiment Analysis) example (AWS Account needed): https://us-west-2.console.aws.amazon.com/comprehend/home?region=us-west-2#home
+* Demo: Amazon Commprehend (e.g. Sentiment Analysis) example (AWS Account needed): https://us-west-2.console.aws.amazon.com/comprehend/home?region=us-west-2#home
 
 * Large Language Models - Youtube Video: https://www.youtube.com/watch?v=5sLYAQS9sWQ
 
@@ -34,9 +34,15 @@ Dear all, as the talk is based upon a lot of content, please find related links 
 
 * Billboard chart for LLMs: https://s10251.pcdn.co/wp-content/uploads/2023/06/2023-Alan-D-Thompson-AI-Billboard-Rev-1.png
 
-* SageMaker Notebook: Text Generation with Falcon: https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-falcon.ipynb
+* Demo: SageMaker Notebook: Text Generation with Falcon: https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-falcon.ipynb
+
+* Demo: Amazon Bedrock Sentiment Analysis: https://github.com/typex1/Amazon-Review-Analysis-Bedrock
 
 * Should you Prompt, RAG or fine tune? https://medium.com/@pandey.vikesh/should-you-prompt-rag-tune-or-train-a-guide-to-choose-the-right-generative-ai-approach-5e264043bd7d
+
+* What is Retrieval Augmented Generation (RAG)? https://www.youtube.com/watch?v=T-D1OfcDW1M
+
+* Amazon Bedrock Knowledge Base = RAG with Bedrock: https://aws.amazon.com/blogs/aws/knowledge-bases-now-delivers-fully-managed-rag-experience-in-amazon-bedrock/
 
 * Amazon Bedrock RAG workshop: https://github.com/aws-samples/amazon-bedrock-rag-workshop
 
