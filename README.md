@@ -49,3 +49,9 @@ Dear all, as the talk is based upon a lot of content, please find related links 
 * Amazon Partyrock example: "Text rewriter" https://partyrock.aws/u/cabcookie/RjOhsSpr0/Text-Rewriter-An-AI-Assistant-for-Professionally-Editing-Content/snapshot/7CHKa58sa
 
 * Files and links from Generative AI official webinar on Youtube: https://github.com/typex1/AWS-GenAI-Foundations-slides/
+
+* Free Bedrock related courses on AWS Skillbuilder: https://explore.skillbuilder.aws/pages/16/learner-dashboard?ctl99=l-_en~se-Bedrock
+
+* Free SageMaker Lab Linux platform (25GB permanent storage, 4 CPUs): https://studiolab.sagemaker.aws/
+
+* Free of charge AWS Workshops related to Bedrock (you only need to bring your own AWS account): https://workshops.aws/card/bedrock
