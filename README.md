@@ -30,9 +30,7 @@ Dear all, as the talk is based upon a lot of content, please find related links 
 
 * Falcon 40B LLM: https://huggingface.co/tiiuae/falcon-40b-instruct
 
-* Falcon LLMs creator: https://en.wikipedia.org/wiki/Technology_Innovation_Institute
-
-* Billboard chart for LLMs: https://s10251.pcdn.co/wp-content/uploads/2023/06/2023-Alan-D-Thompson-AI-Billboard-Rev-1.png
+* Falcon LLMs company: https://en.wikipedia.org/wiki/Technology_Innovation_Institute
 
 * Demo: SageMaker Notebook: Text Generation with Falcon: https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-falcon.ipynb
 
@@ -45,6 +43,10 @@ Dear all, as the talk is based upon a lot of content, please find related links 
 * Amazon Bedrock Knowledge Base = RAG with Bedrock: https://aws.amazon.com/blogs/aws/knowledge-bases-now-delivers-fully-managed-rag-experience-in-amazon-bedrock/
 
 * Amazon Bedrock RAG workshop: https://github.com/aws-samples/amazon-bedrock-rag-workshop
+
+* Twitch video on RAG with SageMaker and Amazon Kendra: https://www.twitch.tv/aws/video/1959038426
+
+* GitHub repo used in the above presentation: https://github.com/aws-samples/generative-ai-on-aws-immersion-day/tree/main/lab4
 
 * Amazon Partyrock example: "Text rewriter" https://partyrock.aws/u/cabcookie/RjOhsSpr0/Text-Rewriter-An-AI-Assistant-for-Professionally-Editing-Content/snapshot/7CHKa58sa
 
