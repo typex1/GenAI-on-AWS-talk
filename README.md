@@ -16,6 +16,8 @@ Dear all, as the talk is based upon a lot of content, please find related links 
 
 * Wikipedia: https://en.wikipedia.org/wiki/Large_language_model
 
+* One of the largest publicly available text datasets (825 GiB): https://pile.eleuther.ai/
+
 * Model size comparizon (graphical): https://lifearchitect.ai/models/#model-bubbles
 
 * "Transformers, explained" Youtube Video: https://www.youtube.com/watch?v=SZorAJ4I-sA
